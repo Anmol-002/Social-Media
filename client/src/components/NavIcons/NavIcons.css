@@ -1,0 +1,4 @@
+.navIcons{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,22 @@
+.ct{
+    width: 100%;
+    background-color: var(--inputColor);
+    padding: 10px 10px 20px 0px;
+    border-radius: 10px;
+}
+.ot{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.fst{
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+.hidden{
+    display: none;
+}
