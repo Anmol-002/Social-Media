@@ -41,7 +41,7 @@ WisdomWeaven is a one-stop platform designed to uplift and celebrate the wisdom 
 
 ## Individual subparts repo's:
 - **Social Media**: https://github.com/Anmol-002/social-media-backend
-- **Ecommerce: https**://github.com/Anmol-002/E-commerce
+- **Ecommerce**: https://github.com/Anmol-002/E-commerce
 - **SocketIo**: https://github.com/Anmol-002/socialmedia-socket
 
 ## Website Preview:
