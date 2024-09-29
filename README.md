@@ -1,5 +1,6 @@
-#  [WisdomWeaven](https://wisdomweaven.netlify.app/)
 (The website may take few minutes to load because of the slow response time from backend deployed on render...) 
+
+#  [WisdomWeaven](https://wisdomweaven.netlify.app/)
 **Empowering the Golden Generation with Connection, Creativity, and Commerce**
 
 WisdomWeaven is a one-stop platform designed to uplift and celebrate the wisdom and talents of the elderly. Built with care and innovation, this platform connects seniors with peers, provides a seamless way to share their skills, and enables them to generate passive income by selling handmade products. It's the ultimate digital haven for our talented elders to thrive socially, creatively, and financially.
