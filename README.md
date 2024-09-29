@@ -30,19 +30,19 @@ WisdomWeaven is a one-stop platform designed to uplift and celebrate the wisdom 
    cd Social-Media
    
 2. Backend
-   a. Clone the repository to your local machine.
-   b. Navigate to the `backend` directory.
-   c. Run `npx nodemon index.js` to start the backend server.
+   - Clone the repository to your local machine.
+   - Navigate to the `backend` directory.
+   - Run `npx nodemon index.js` to start the backend server.
    
 4. Frontend
-   a. Navigate to the `frontend` directory.
-   b. Run `npm i` to install the dependencies.
-   c. Run `npm start` to launch the frontend.
+   - Navigate to the `frontend` directory.
+   - Run `npm i` to install the dependencies.
+   - Run `npm start` to launch the frontend.
 
 ## Individual subparts repo's:
-1. Social Media: https://github.com/Anmol-002/social-media-backend
-2  Ecommerce: https://github.com/Anmol-002/E-commerce
-3. SocketIo: https://github.com/Anmol-002/socialmedia-socket
+- **Social Media**: https://github.com/Anmol-002/social-media-backend
+- **Ecommerce: https**://github.com/Anmol-002/E-commerce
+- **SocketIo**: https://github.com/Anmol-002/socialmedia-socket
 
 ## Website Preview:
 ![Screenshot 2024-09-29 150539](https://github.com/user-attachments/assets/b583c9d4-eb2a-4592-9921-0d98f31286f1)
@@ -55,6 +55,7 @@ WisdomWeaven is a one-stop platform designed to uplift and celebrate the wisdom 
 ![Screenshot 2024-09-29 150726](https://github.com/user-attachments/assets/936bcdd7-6871-4bcf-b952-e8e96d4ab281)
 ![Screenshot 2024-09-29 150647](https://github.com/user-attachments/assets/fe1da9b2-67ce-4563-a6d1-0a1f5bd0cfa0)
 ![Screenshot 2024-09-29 151434](https://github.com/user-attachments/assets/5a66c70e-54f1-477d-a370-7152f5a8babf)
+
 https://github.com/user-attachments/assets/c322c78c-6858-44cf-a888-1df7c9335760
 
 
